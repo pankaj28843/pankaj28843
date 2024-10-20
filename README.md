@@ -32,7 +32,7 @@
   - Modernized codebase with cutting-edge technologies like React and WebSocket.
 
 - **Senior Software Engineer** | A.P. Moller - Maersk | (Sep 2022 - Oct 2023)
-  - Contributed to the development of a new network design tool using Vue 3.
+  - Contributed to developing a new network design tool using Vue 3.
   - Migrated Schedule Planner software to the cloud.
 
 - **Senior Software Engineer** | Chainalysis | (Jul 2019 - Aug 2022)
@@ -42,14 +42,6 @@
 - **Student Mentor** | HackYourFuture Denmark | (Oct 2017 - Present)
   - Mentored students on JavaScript and web development.
   - Helped multiple students transition into professional IT roles.
-
----
-
-### 📊 StackOverflow Stats
-
-<a href="https://stackoverflow.com/users/353550/pankaj28843">
-  <img src="https://stackoverflow-readme-profile.johannchopin.fr/api/cards?userID=353550&theme=dark&showBorder=true&titleColor=orange&borderColor=blue" alt="Stack Overflow Stats" />
-</a>
 
 ---
 
