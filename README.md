@@ -26,25 +26,6 @@
 
 ---
 
-### 🛠️ Experience Highlights
-- **Senior Software Engineer** | SeatGeek | (Nov 2023 - Present)
-  - Leading development of SeatGeek’s event management platform.
-  - Modernized codebase with cutting-edge technologies like React and WebSocket.
-
-- **Senior Software Engineer** | A.P. Moller - Maersk | (Sep 2022 - Oct 2023)
-  - Contributed to developing a new network design tool using Vue 3.
-  - Migrated Schedule Planner software to the cloud.
-
-- **Senior Software Engineer** | Chainalysis | (Jul 2019 - Aug 2022)
-  - Developed Chainalysis Storyline using React, Redux, and WebSocket.
-  - Led migration of Chainalysis Reactor from AngularJS to Angular.
-
-- **Student Mentor** | HackYourFuture Denmark | (Oct 2017 - Present)
-  - Mentored students on JavaScript and web development.
-  - Helped multiple students transition into professional IT roles.
-
----
-
 ### 📫 How to reach me:
 - Email: pankaj28843@gmail.com
 - LinkedIn: [Pankaj Kumar Singh](https://www.linkedin.com/in/pankaj28843)
