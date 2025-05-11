@@ -41,11 +41,6 @@ What drives me is making things simpler—for users, for developers, and for sys
 
 ---
 
-### 🌍 Where I Am
-Copenhagen, Denmark (🇩🇰)
-
----
-
 ### 📬 Reach Me
 
 - 📧 Email: pankaj28843@gmail.com
