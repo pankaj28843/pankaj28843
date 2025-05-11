@@ -26,7 +26,7 @@ What drives me is making things simpler—for users, for developers, and for sys
 - **Developer Experience**: Tools, automation, and observability to keep engineers in flow.
 - **Modernization**: Refactoring brittle systems and moving towards maintainable architectures.
 - **Platform Efficiency**: Infrastructure tuning (e.g., Kubernetes), monitoring, and cost-cutting.
-- **Frontend & Full-stack**: Web apps with React, Node.js, and everything in between.
+- **Frontend & Full-stack**: Web apps with React, C#, Python, Node.js, and everything in between.
 
 ---
 
