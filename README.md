@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pankaj Kumar Singh</h1>
-<h3 align="center">Experienced Software Developer with 10+ years in building and modernizing web applications.</h3>
+<h3 align="center">Engineer, problem-solver, and platform builder with 13+ years across the stack—from UIs to Kubernetes.</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pankaj28843/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin"></a>
@@ -12,21 +12,46 @@
 ---
 
 ### 👨‍💻 About Me
-- 💼 **Current Role**: Senior Software Engineer at SeatGeek, leading development and modernization efforts for new and existing software systems.
-- 🚀 Over **10 years of experience** building web applications with modern tools.
-- 🏆 Proven leadership in building products from scratch, mentoring teams, and ensuring software reliability.
-- 🌍 **Location**: Copenhagen, Denmark
 
-### 💻 Tech Stack
-- **Languages**: TypeScript, JavaScript, Python, C#
-- **Frameworks & Tools**: React, Redux, Node.js, Vue 3, Flask, Express.js, WebSocket, SQLAlchemy, GraphQL, Django
-- **Cloud & DevOps**: Docker, Kubernetes, AWS
-- **Databases**: PostgreSQL, MongoDB, Redis
-- **Testing & Monitoring**: Jest, Cypress, Sentry, Prometheus
+I'm a software engineer based in Copenhagen with over a decade of experience shipping software, simplifying infrastructure, and guiding teams. I specialize in full-stack and platform engineering—solving hard problems with a practical mindset. 
+
+These days, I’m at **SeatGeek**, where I focus on building a Unified Payments Platform for our enterprise customers. Before that, I helped scale systems at **Chainalysis**, tackled optimization problems at **Maersk**, and built core tools from scratch at a fast-paced edtech startup.
+
+What drives me is making things simpler—for users, for developers, and for systems. Whether it’s reining in cloud spend, writing test frameworks that actually catch bugs, or modernizing fragile legacy stacks, I enjoy projects that clear bottlenecks and boost clarity.
 
 ---
 
-### 📫 How to reach me:
-- Email: pankaj28843@gmail.com
-- LinkedIn: [Pankaj Kumar Singh](https://www.linkedin.com/in/pankaj28843)
-- Twitter: [@pankaj28843](https://twitter.com/pankaj28843)
+### 🛠️ Areas I Work In
+
+- **Developer Experience**: Tools, automation, and observability to keep engineers in flow.
+- **Modernization**: Refactoring brittle systems and moving towards maintainable architectures.
+- **Platform Efficiency**: Infrastructure tuning (e.g., Kubernetes), monitoring, and cost-cutting.
+- **Frontend & Full-stack**: Web apps with React, Node.js, and everything in between.
+
+---
+
+### 💻 Tech Stack
+
+- **Languages**: TypeScript, Python, JavaScript, C#
+- **Frontend**: React, Redux, Angular, Vue 3, Tailwind CSS
+- **Backend**: Node.js, Express.js, Flask, Django, GraphQL, WebSocket, SQLAlchemy
+- **Infra & DevOps**: Docker, Kubernetes, AWS, Prometheus, Sentry, GitHub Actions
+- **Databases**: PostgreSQL, MongoDB, Redis
+- **Testing**: Playwright, Jest, Cypress
+
+---
+
+### 🌍 Where I Am
+Copenhagen, Denmark (🇩🇰)
+
+---
+
+### 📬 Reach Me
+
+- 📧 Email: pankaj28843@gmail.com
+- 🧭 LinkedIn: [Pankaj Kumar Singh](https://www.linkedin.com/in/pankaj28843)
+- 🐦 Twitter: [@pankaj28843](https://twitter.com/pankaj28843)
+
+---
+
+Thanks for stopping by! Feel free to connect or drop a message if you'd like to collaborate or chat about engineering, efficiency, or platform challenges.
